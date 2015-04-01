@@ -4,10 +4,12 @@
 python runserver.py
 ```
 You can now browse http://127.0.0.1:5000 to view this site.
+
 #Dependencies
 * Flask
 * mongoDB
 * mongoengine
+
 #Installing dependencies
 ```
 sudo apt-get install mongodb
@@ -22,5 +24,6 @@ Installing the python dependencies:
 sudo pip install flask
 sudo pip install mongoengine
 ```
+
 #Syncing database
 //pass. Will be implemented later.
