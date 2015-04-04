@@ -1,5 +1,5 @@
 #Directory Structure
-
+```
 /InfoRobot - main package
 ..../controllers - back-end business logic
 ..../models - back-end database models
@@ -10,3 +10,4 @@
 ......../css - CSS files
 ......../images - static image files
 ......../upload - uploaded files
+```
