@@ -21,5 +21,5 @@ def register_page():
 * Although html files are placed in ```InfoRobot/templates``` directory, you should place JS/CSS/images files in ```InfoRobot/static``` directory, because those files CANNOT be rendered as templates.
 * By placing static files in the correct directory, you can access them by url ```http://127.0.0.1:5000/static/{{file_path}}```
 Sample:
-Route: ```http://127.0.0.1:5000/static/js/hello.js```
-File Path: ```InfoRobot/static/js/hello.js```
+ - Route: ```http://127.0.0.1:5000/static/js/hello.js```
+ - File Path: ```InfoRobot/static/js/hello.js```
