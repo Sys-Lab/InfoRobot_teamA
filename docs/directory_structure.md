@@ -6,7 +6,7 @@
 ..../routes - url routes
 ....templates - front-end HTML files
 ..../static - static files
-......../js - avaScript files
+......../js - JavaScript files
 ......../css - CSS files
 ......../images - static image files
 ......../upload - uploaded files
