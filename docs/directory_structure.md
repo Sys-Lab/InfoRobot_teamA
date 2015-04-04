@@ -4,7 +4,7 @@
 ..../controllers - back-end business logic
 ..../models - back-end database models
 ..../routes - url routes
-....templates - front-end HTML files
+..../templates - front-end HTML files
 ..../static - static files
 ......../js - JavaScript files
 ......../css - CSS files
