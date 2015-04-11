@@ -9,6 +9,7 @@ You can now browse http://127.0.0.1:5000 to view this site.
 * Flask
 * mongoDB
 * mongoengine
+* validate_email
 
 #Installing dependencies
 ```
@@ -23,6 +24,7 @@ Installing the python dependencies:
 ```
 sudo pip install flask
 sudo pip install mongoengine
+sudo pip install validate_email
 ```
 
 #Syncing database
